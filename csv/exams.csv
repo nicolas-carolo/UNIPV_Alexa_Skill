@@ -1,0 +1,55 @@
+id,course_name,short,date,room,time
+0,multimedia systems and technologies,mst,2020-02-08,A1,14
+1,multimedia systems and technologies,mst,2020-02-28,6,9
+2,multimedia systems and technologies,mst,2020-07-10,5,14
+3,multimedia systems and technologies,mst,2020-07-25,A3,14
+4,multimedia systems and technologies,mst,2020-09-04,E1,9
+5,multimedia systems and technologies,mst,2020-09-20,C6,9
+6,enterprise digital infrastructure,edi,2020-01-22,E4,9
+7,enterprise digital infrastructure,edi,2020-02-14,E2,9
+8,enterprise digital infrastructure,edi,2020-06-17,E4,9
+9,enterprise digital infrastructure,edi,2020-07-11,E2,9
+10,enterprise digital infrastructure,edi,2020-09-02,E3,9
+11,enterprise digital infrastructure,edi,2020-09-16,E3,9
+12,digital content retrieval,dcr,2020-02-07,C6,9
+13,digital content retrieval,dcr,2020-02-27,E2,9
+14,digital content retrieval,dcr,2020-06-19,A2,14
+15,digital content retrieval,dcr,2020-07-04,E6,9
+16,digital content retrieval,dcr,2020-07-24,E2,9
+17,digital content retrieval,dcr,2020-09-10,E1,14
+18,human computer interaction,hci,2020-01-30,5,14
+19,human computer interaction,hci,2020-02-21,5,14
+20,human computer interaction,hci,2020-06-26,5,14
+21,human computer interaction,hci,2020-07-18,5,14
+22,human computer interaction,hci,2020-09-12,5,14
+23,human computer interaction,hci,2020-09-27,5,14
+24,organization theory and design,organization,2020-02-05,EF4,14
+25,organization theory and design,organization,2020-02-28,8,9
+26,organization theory and design,organization,2020-06-24,3,9
+27,organization theory and design,organization,2020-07-25,A3,9
+28,organization theory and design,organization,2020-09-05,EF1,9
+29,organization theory and design,organization,2020-09-20,4,9
+30,robotics,robotics,2020-01-31,8,14
+31,robotics,robotics,2020-02-22,EF1,14
+32,robotics,robotics,2020-06-27,8,14
+33,robotics,robotics,2020-07-11,E4,9
+34,robotics,robotics,2020-09-06,C7,9
+35,robotics,robotics,2020-09-16,E1,14
+36,software engineering,ingegneria del software,2020-01-24,E1,9
+37,software engineering,ingegneria del software,2020-02-15,E1,9
+38,software engineering,ingegneria del software,2020-06-20,E1,9
+39,software engineering,ingegneria del software,2020-07-12,E1,9
+40,software engineering,ingegneria del software,2020-09-10,E2,14
+41,software engineering,ingegneria del software,2020-09-27,E1,14
+42,information security,information,2020-01-21,E1,14
+43,information security,information,2020-02-20,E2,9
+44,information security,information,2020-06-17,E1,14
+45,information security,information,2020-07-10,E1,9
+46,information security,information,2020-09-03,E1,9
+47,information security,information,2020-09-17,E1,9
+48,artificial intelligence,ai,2020-01-28,E2,9
+49,artificial intelligence,ai,2020-02-18,E1,9
+50,artificial intelligence,ai,2020-06-26,E2,9
+51,artificial intelligence,ai,2020-07-22,E1,9
+52,artificial intelligence,ai,2020-09-12,E2,14
+53,artificial intelligence,ai,2020-09-26,E2,14

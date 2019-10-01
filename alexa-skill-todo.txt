@@ -1,0 +1,15 @@
+1. Dato il corso -> professore DONE
+2. Dato il professore -> corsi DONE
+3. Ufficio professore e orari di ricevimento DONE
+4. quando inizia la sessione
+5. quando iniziano le lezioni
+
+6. Dato giorno e ora -> didattica
+7. Dato corso -> giorno e aula
+8. Menù mensa per una settimana
+
+
+9. lab non disponibile	DONE
+10. aggiungere immagini report DONE
+11. test su dispositivo alexa e istruzioni DONE
+12. aggiungere lettere accentate

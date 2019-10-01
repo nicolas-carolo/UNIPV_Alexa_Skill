@@ -1,0 +1,18 @@
+id,day,course,alias,time,room,year
+0,0,enterprise digital infrastructure,edi,9,B2,1
+1,0,digital content retrieval,dcr,11,B2,1
+2,0,human computer interaction,hci,16,E4,1
+3,1,enterprise digital infrastructure,edi,9,C6,1
+4,1,organization theory and design,organization,14,A2,1
+5,2,enterprise digital infrastructure,edi,9,B2,1
+6,3,digital content retrieval,dcr,9,B2,1
+7,3,organization theory and design,organization,11,3,1
+8,4,human computer interaction,hci,11,E4,1
+9,1,robotics,robotics,11,E8,2
+10,2,software engineering,ingegneria del software,9,5,2
+11,2,robotics,robotics,11,E3,2
+12,2,information security,information,14,E1,2
+13,3,information security,information,14,E3,2
+14,4,software engineering,ingegneria del software,9,E2,2
+15,4,artificial intelligence,ai,11,E4,2
+16,4,artificial intelligence,ai,14,E4,2
